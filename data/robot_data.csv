@@ -1,0 +1,9 @@
+Robot_ID,Robot_Name,Current_Zone,Task,Battery,Status,Distance_Covered,Deliveries,Speed
+R001,Atlas,D2,Food Delivery,31,Active,9.4,18,1.2
+R002,Bolt,D2,Medical Support,38,Active,14.1,26,1.3
+R003,Nova,A1,Security Patrol,63,Active,11.8,22,1.1
+R004,Echo,D1,Cleaning,58,Active,7.2,15,1.0
+R005,Orion,C2,VIP Assistance,29,Active,5.6,10,1.2
+R006,Titan,C1,Food Delivery,69,Active,12.0,21,1.1
+R007,Luna,B1,Medical Support,61,Active,10.3,19,1.3
+R008,Apollo,D2,Security Patrol,40,Idle,8.5,17,1.2
