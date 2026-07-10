@@ -103,5 +103,3 @@ This project was developed as a portfolio project demonstrating concepts of:
 - Dashboard Development
 - Data Visualization
 
-
-⭐ If you found this project interesting, consider giving it a star.
