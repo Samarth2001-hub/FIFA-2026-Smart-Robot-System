@@ -73,46 +73,46 @@ The repository contains screenshots demonstrating:
  ![Live Stadium Map](Screenshot%209.png)
 
  Robot Performance Leaderboard
- ![Robot Performance Leaderboard](Screenshot%210.png)
+ ![Robot Performance Leaderboard](Screenshot%2010.png)
 
  Robot Performance Leaderboard
- ![Robot Performance Leaderboard](Screenshot%211.png)
+ ![Robot Performance Leaderboard](Screenshot%2011.png)
 
  AI Predictive Analytics
- ![AI Predictive Analytics](Screenshot%212.png)
+ ![AI Predictive Analytics](Screenshot%2012.png)
 
  Live Mission Control
- ![Live Mission Control](Screenshot%213.png)
+ ![Live Mission Control](Screenshot%2013.png)
 
  Live Mission Control
- ![Live Mission Control](Screenshot%214.png)
+ ![Live Mission Control](Screenshot%2014.png)
 
  Live Mission Control
- ![Live Mission Control](Screenshot%215.png)
+ ![Live Mission Control](Screenshot%2015.png)
 
  Live Mission Control
- ![Live Mission Control](Screenshot%216.png)
+ ![Live Mission Control](Screenshot%2016.png)
 
  Live Analytics Dashboard
- ![Emergency Alert System](Screenshot%217.png)
+ ![Emergency Alert System](Screenshot%2017.png)
 
  Battery vs Distance Analysis
- ![Battery vs Distance Analysis](Screenshot%218.png)
+ ![Battery vs Distance Analysis](Screenshot%2018.png)
 
  AI Robot Health Score
- ![AI Robot Health Score](Screenshot%219.png)
+ ![AI Robot Health Score](Screenshot%2019.png)
 
  AI Command Center
- ![AI Command Center](Screenshot%220.png)
+ ![AI Command Center](Screenshot%2020.png)
 
  AI Summary
- ![AI Summary](Screenshot%221.png)
+ ![AI Summary](Screenshot%2021.png)
 
  Live Match Control Center
- ![Live Match Control Center](Screenshot%222.png)
+ ![Live Match Control Center](Screenshot%2022.png)
 
  Live AI Event Feed
- ![Live AI Event Feed](Screenshot%223.png)
+ ![Live AI Event Feed](Screenshot%2023.png)
  
 
  
