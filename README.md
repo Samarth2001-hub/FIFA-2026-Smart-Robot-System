@@ -45,17 +45,38 @@ The dashboard automatically refreshes every few seconds to simulate a live robot
 
 The repository contains screenshots demonstrating:
 
-- Home Dashboard
-- Robot Information Table
-- Robot Task Distribution
-- Battery Level Analysis
-- AI Recommendation Panel
-- Emergency Alert System
-- Live Robot Status
-- Live Stadium Map
-- Robot Performance Leaderboard
-- AI Predictive Analytics
-- Live Mission Control
+ Home Dashboard
+![Home Dashboard](Screenshot%201.png)
+
+ Robot Information
+![Robot Information](Screenshot%202.png)
+
+ Robot Task Distribution
+![Robot Task Distribution](Screenshot%203.png)
+
+ Battery Analysis
+![Battery Analysis](Screenshot%204.png)
+
+ AI Recommendation Panel
+![AI Recommendation Panel](Screenshot%205.png)
+
+ Emergency Alert System
+![Emergency Alert System](Screenshot%206.png)
+
+ Live Robot Status
+![Live Robot Status](Screenshot%207.png)
+
+ Live Stadium Map
+![Live Stadium Map](Screenshot%208.png)
+
+ Robot Performance Leaderboard
+![Robot Performance Leaderboard](Screenshot%209.png)
+
+ AI Predictive Analytics
+![AI Predictive Analytics](Screenshot%210.png)
+
+ Live Mission Control
+![Live Mission Control](Screenshot%211.png) 
 
 
 # Dashboard Modules
